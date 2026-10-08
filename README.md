@@ -41,7 +41,7 @@ I am a Computer Engineering student with interests in software engineering, embe
 
 ### 📫 Let's connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://github.com/ktt-tran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://ktt-tran.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktttran/)
 <!-- EDIT: all links above -->
 
